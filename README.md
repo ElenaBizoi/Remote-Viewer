@@ -9,7 +9,4 @@ Open the file "image-web" from Command Prompt and start the server giving a numb
 After the server starts to run, open in your browser "http://localhost:2555/".
 
     Requirements
-Visual Studio 2017
-C++11
-Python 3.6
-Node.js
+Visual Studio 2017, C++11, Python 3.6, Node.js
